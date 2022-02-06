@@ -6,7 +6,9 @@ Projeto desenvolvido em Java + SpringBoot para cálculo de valor de frete utiliz
 A documentação é feita utilizando o Swagger, disponível em:
 > http://localhost/swagger-ui.html
 
+
 ##Endpoints
+
 ### Quotation
 ~~~
 POST /api/quotation
